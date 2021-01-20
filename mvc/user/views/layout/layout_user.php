@@ -131,7 +131,7 @@
       <a class="nav-link" id="nav-item-2" href="./news"><i class="fa fa-newspaper-o fa-2x" aria-hidden="true"></i></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" id="nav-item-2" href="http://localhost/wogomin/chat/index.php"><i class="fa fa-commenting fa-2x" aria-hidden="true"></i></a>
+      <a class="nav-link" id="nav-item-2" href="http://localhost/Duanthuctap/chat/index.php"><i class="fa fa-commenting fa-2x" aria-hidden="true"></i></a>
     </li>
     <li class="nav-item">
       <a class="nav-link" id="nav-item-2" href="#"><i class="fa fa-clock-o fa-2x" aria-hidden="true"></i></a>
