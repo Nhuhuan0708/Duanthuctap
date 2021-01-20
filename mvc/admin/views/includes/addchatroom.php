@@ -2,7 +2,7 @@
     <div class="col-lg-6">
         <div class="card">
             <div class="card-header">
-                <h3>Add room chat<h3>
+                <h3>Add service<h3>
             </div>
             <div class="card-body card-block">
                 <form action="/wogomin/admin/addChatRoom" method="post">
